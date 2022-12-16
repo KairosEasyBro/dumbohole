@@ -4,11 +4,11 @@
   "description": "a really unsecure backend for displaying a public dump of files",
   "main": "index.js",
   "dependencies": {
+    "discord.js": "^14.7.1",
     "express": "^4.18.2",
     "express-fileupload": "^1.4.0",
     "serve-index": "^1.9.1"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node index.js"
   },
