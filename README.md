@@ -1,8 +1,8 @@
-# shithole
-public file dump backend (and a sample frontend)
+# DumboHole™
+AHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-## how run pleas
-i don't even know the answer to that myself
+## How do I thou run it?
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-## this is [no longer] broken
-thank u slendy 
+#######HELP
+NO
